@@ -1,7 +1,7 @@
 
 //Virtual Sensors
 
-
+//require to install "mqtt" = npm install mqtt --save
 var mqtt = require('mqtt');
 
 // Device access token
