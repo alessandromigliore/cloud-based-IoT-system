@@ -1,16 +1,16 @@
 # 1.	ArcadeChain - The current use of NFTs in gaming and its impact on future generations.
 
-Introduction:
+**Introduction:**
 The introduction chapter will provide an overview of the thesis, including the background and motivation for researching NFT gaming in Web3 on the Polygon network. It will also introduce the research questions and objectives of the thesis. The chapter will begin by discussing the emergence of NFTs and the potential for NFT-based gaming to disrupt traditional gaming models. This will be followed by an introduction to the Polygon network and its advantages for NFT-based gaming, such as its fast transaction times and low transaction fees. The chapter will also provide an overview of the methodology and scope of the research.
 
-Technical Aspects of NFT Gaming on the Polygon Network:
+**Technical Aspects of NFT Gaming on the Polygon Network:**
 The technical aspects chapter will provide an in-depth exploration of the technical aspects of creating NFT-based games on the Polygon network. This will include a detailed analysis of the use of smart contracts, decentralized marketplaces, and blockchain gaming platforms. The chapter will begin by discussing the basics of NFTs and the differences between fungible and non-fungible tokens. It will then move on to a discussion of smart contracts and how they can be used to create NFT-based games on the Polygon network. The chapter will also explore the role of decentralized marketplaces in NFT-based gaming, including the advantages and disadvantages of using these marketplaces. The final section of the chapter will examine the use of blockchain gaming platforms for NFT-based games, including a discussion of the benefits and limitations of these platforms.
 
-Integration of NFTs into Existing Gaming Platforms:
+**Integration of NFTs into Existing Gaming Platforms:**
 The integration chapter will examine the potential for NFTs to be integrated into existing gaming platforms, such as mobile games and online multiplayer games. This will include a discussion of the benefits and limitations of using NFTs in these contexts, as well as case studies of successful NFT integrations into existing games. The chapter will begin by discussing the potential for NFTs to enhance player engagement and create a more sustainable gaming ecosystem. It will then move on to a discussion of the technical aspects of integrating NFTs into existing games, including the use of APIs and SDKs. The chapter will also explore the potential for NFT-based games to create new revenue streams for game developers and publishers.
 
-Economic Implications of NFT Gaming on the Polygon Network:
+**Economic Implications of NFT Gaming on the Polygon Network:**
 The economic implications chapter will explore the economic implications of NFT gaming on the Polygon network, including the potential for NFTs to create new revenue streams for developers and players alike. This will include a discussion of the potential for NFTs to become a new form of digital asset class that can be traded like stocks or commodities. The chapter will begin by discussing the potential for NFTs to incentivize player engagement and create a more sustainable gaming ecosystem. It will then move on to a discussion of the potential for NFTs to create new revenue streams for game developers and publishers. The chapter will also explore the potential for NFTs to become a mainstream gaming feature, and the future opportunities and challenges that this presents.
 
-The Future of NFT Gaming on the Polygon Network:
+**The Future of NFT Gaming on the Polygon Network:**
 The future chapter will examine the potential for continued growth and innovation in the NFT gaming space, and the role that the Polygon network can play in facilitating this growth. This will include a discussion of the potential for NFT gaming to disrupt traditional gaming models, and the implications of this disruption for the gaming industry as a whole. The chapter will also explore the potential for NFTs to become a mainstream gaming feature, and the future opportunities and challenges that this presents. Finally, the chapter will examine the potential for continued innovation in the NFT gaming space, including the potential for new game genres and new ways of monetizing NFT-based games.
